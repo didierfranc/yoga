@@ -1,0 +1,14 @@
+{
+  "name": "yoga",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:didierfranc/yoga.git",
+  "author": "Didier Franc <didierfranc@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
